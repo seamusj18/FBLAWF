@@ -1,2 +1,2 @@
 # FBLAWF
-#Website for the Decatur, IL based charity, Operation Warm Fuzzy
+Website for the Decatur, IL based charity, Operation Warm Fuzzy
