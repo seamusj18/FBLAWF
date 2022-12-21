@@ -25,3 +25,17 @@
     max-width: 200px;
     max-height: 200px;
 }
+
+.paragraph{
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+    max-width: 600px;
+     
+}
+
+.link{
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+}
