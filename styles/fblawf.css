@@ -4,6 +4,7 @@
     margin-top: 100px;
     font-size: 30px;
     font-weight: bold;
+    margin-left: 19%;
 }
 
 .navbar{
@@ -21,13 +22,20 @@
     margin-left: -200px;
     height: 100%;
 }
+
+.content{
+    margin-left: 19%;
+    padding: 0 10%;
+    text-align: center;
+}
+
 .logo{
     max-width: 200px;
     max-height: 200px;
 }
 
 .paragraph{
-    text-align: center;
+    text-align: start;
     font-family: arial;
     font-size: 20px;
 }
