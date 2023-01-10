@@ -12,7 +12,7 @@
     font-size: 20px;
     padding-top: 10px;
     position: fixed;
-    background-color: rgb(172, 96, 46);
+    background-color: lightgray;
     width: 150px;
     padding-right: 100px;
     font-family: arial;
@@ -21,7 +21,7 @@
     margin-top: -200px;
     margin-left: -200px;
     height: 100%;
-    border-right: 10px ridge rgb(172, 96, 46, 0.7);
+    border-right: 10px ridge rgb(255, 252, 252, 0.4);
 }
 
 .content{
